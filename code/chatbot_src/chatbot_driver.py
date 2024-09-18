@@ -18,7 +18,7 @@ this completes our video demonstration
 #start the app i.e. activating the api for being called from the UI
 app = FastAPI()
 
-config_file_path = "/Users/sbhar/Riju/PhDCode/CoCoApp/faircopy/modularised/config.ini"
+config_file_path = "/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/config.ini"
 config = configparser.ConfigParser()
 config.read(config_file_path)
 
