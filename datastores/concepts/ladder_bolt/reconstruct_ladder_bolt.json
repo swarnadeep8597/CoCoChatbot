@@ -1,0 +1,86 @@
+[
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 1,
+        "y": 1,
+        "z": 0
+    },
+    {
+        "color": "Yellow",
+        "shape": "Nut",
+        "x": 2,
+        "y": 1,
+        "z": 1
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 3,
+        "y": 1,
+        "z": 0
+    },
+    {
+        "color": "Blue",
+        "shape": "Nut",
+        "x": 3,
+        "y": 1,
+        "z": 1
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 2,
+        "y": 1,
+        "z": 0
+    },
+    {
+        "color": "Blue",
+        "shape": "Nut",
+        "x": 1,
+        "y": 1,
+        "z": 1
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 2,
+        "y": 1,
+        "z": 0
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 2,
+        "y": 1,
+        "z": 0
+    },
+    {
+        "color": "Blue",
+        "shape": "Nut",
+        "x": 3,
+        "y": 1,
+        "z": 1
+    },
+    {
+        "color": "Blue",
+        "shape": "Nut",
+        "x": 1,
+        "y": 1,
+        "z": 1
+    },
+    {
+        "color": "Blue",
+        "shape": "Nut",
+        "x": 1,
+        "y": 1,
+        "z": 1
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 2,
+        "y": 1,
+        "z": 0
+    }
+]

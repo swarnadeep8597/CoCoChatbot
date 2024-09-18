@@ -1,0 +1,1016 @@
+{
+    "worldStates": [
+        {
+            "timestamp": "2024-09-15T20:29:11.559Z",
+            "chatHistory": [],
+            "blocksInGrid": []
+        },
+        {
+            "timestamp": "2024-09-15T20:29:14.875Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Washer",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Green"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:29:17.357Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Washer",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Green"
+                },
+                {
+                    "shape": "Washer",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 4
+                    },
+                    "color": "Blue"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:29:20.463Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Washer",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Green"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:29:27.293Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Washer",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Green"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 4
+                    },
+                    "color": "Red"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:29:37.966Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Washer",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Green"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 4
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Horizontal_bridge",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 4
+                    },
+                    "color": "Yellow"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:29:59.785Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Washer",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Green"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 4
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Horizontal_bridge",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 4
+                    },
+                    "color": "Yellow"
+                },
+                {
+                    "shape": "Screw",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:16.305Z",
+            "chatHistory": [],
+            "blocksInGrid": []
+        },
+        {
+            "timestamp": "2024-09-15T20:31:25.557Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:26.194Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:27.055Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:27.465Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:28.025Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 5,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:31.128Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 5,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:31.607Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 5,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:32.330Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 5,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:34.443Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 5,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Yellow"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:34.964Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 5,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Yellow"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 5,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Yellow"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:47.409Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Yellow"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 5,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Yellow"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:47.817Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Yellow"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:48.295Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 6,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Yellow"
+                }
+            ]
+        },
+        {
+            "timestamp": "2024-09-15T20:31:48.645Z",
+            "chatHistory": [],
+            "blocksInGrid": [
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 2
+                    },
+                    "color": "Red"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 2,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Blue"
+                },
+                {
+                    "shape": "Nut",
+                    "position": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    },
+                    "color": "Yellow"
+                }
+            ]
+        }
+    ]
+}
