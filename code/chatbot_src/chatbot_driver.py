@@ -18,8 +18,9 @@ this completes our video demonstration
 #start the app i.e. activating the api for being called from the UI
 app = FastAPI()
 
+config_file_path = "/Users/sbhar/Riju/PhDCode/CoCoApp/faircopy/modularised/config.ini"
 config = configparser.ConfigParser()
-config.read('/Users/sbhar/Riju/PhDCode/CoCoApp/faircopy/modularised/config.ini')
+config.read(config_file_path)
 
 function_selector_prompt_file = config.get('file_paths','function_selector_prompt_file')
 task_description_prompt_file  = config.get('file_paths','task_description_prompt_file')

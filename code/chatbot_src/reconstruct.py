@@ -3,8 +3,9 @@ import json
 import configparser
 from reconstruction_modules import reconstruct
 
+config_file_path = "/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/config.ini"
 config = configparser.ConfigParser()
-config.read('/Users/sbhar/Riju/PhDCode/CoCoApp/faircopy/modularised/config.ini')
+config.read(config_file_path)
 blocked_locations_file        = config.get('file_paths','blocked_locations_file')
 parent_dir = config.get('file_paths','concept_folder_path')
 
@@ -54,7 +55,7 @@ def call_module(concept_name,initial_coord):
     else:
         print("File doesn't exist")
 
-def test_function(concept_name,initial_coord):
+def test_reconstruction_module(concept_name,initial_coord):
     """
     Inorder to implement the module we can do the following,
     construct the resolved object path (assuming that it always exist)
@@ -115,7 +116,7 @@ def test_function(concept_name,initial_coord):
 """
 
 if __name__ == "__main__":
-    all_actions = test_function(
+    all_actions = test_reconstruction_module(
         concept_name='ladder_nut',
         initial_coord=[4,0,0]
     )

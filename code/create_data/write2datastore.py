@@ -3,6 +3,7 @@ import json
 import configparser
 from generate_coordinates import generate_resolve
 
+config_file_path = "/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/config.ini"
 def create_concept_folders(source_folder_path="",constructs_path=""):
     with open(constructs_path,'r') as file:
         construct_names = json.load(file)
@@ -20,7 +21,7 @@ if __name__ == "__main__":
     """
 
     config = configparser.ConfigParser()
-    config.read('/Users/sbhar/Riju/PhDCode/CoCoApp/faircopy/modularised/config.ini')
+    config.read(config_file_path)
 
     source_folder_path  = config.get('file_paths','concept_folder_path')
     constructs_path     = config.get('file_paths','concept_names_path')

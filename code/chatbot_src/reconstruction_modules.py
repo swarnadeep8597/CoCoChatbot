@@ -2,8 +2,9 @@ import json
 import os
 import configparser
 
+config_file_path = "/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/config.ini"
 config = configparser.ConfigParser()
-config.read('/Users/sbhar/Riju/PhDCode/CoCoApp/faircopy/modularised/config.ini')
+config.read(config_file_path)
 blocked_locations_file        = config.get('file_paths','blocked_locations_file')
 
 def part_exists(gen_coords):
