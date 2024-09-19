@@ -11,9 +11,17 @@ robot has a single arm with a black gripper with two white fingers, it
 also has a camera looking into the workspace in front of it.
 
 
+----------------------------
+The input given to the system is described below (why such a description ?)
+----------------------------
 Propose the next task for the robot to perform given: an image
 observation of the current workspace, a list of the completed tasks so
 far, a list of failed tasks that are too hard.
+
+------------------------------
+Describing the task in this case, the task would be analysis of the input and 
+coming up with a task list which should be performed.
+------------------------------
 Give a concise reasoning of your proposal, including listing all possible
 spatial structures achievable by the objects you see, and then give your
 proposed task; you should propose tasks that form a curriculum such as to
@@ -37,3 +45,25 @@ necessary.
 available to the robot. The robot should look for different objects to
 manipulate and different object configurations to achieve such that at
 the end of the curriculum it has "mastered" the whole workspace.
+
+
+
+Task Decomposition Prompt 
+
+-----------------------------
+The prompt to decompose the model into skills (This might be relevant to the SayCan paper)
+-----------------------------
+You are an assistant for helping a robot completing a given task by
+decomposing it into a sequence of subtasks; the robot has a single arm
+with a black gripper with two white fingers, it also has a camera looking
+into the workspace in front of it.
+Decompose the given task into subtasks that the robot knows how to
+perform given: an image observation of the current workspace, a list
+of the available skills of the robot.
+Give a concise reasoning of your decomposition and then give your result
+as a python list of strings, each string contains a decomposed subtask.
+
+
+
+Embodiment Module 
+This needs to be read 
