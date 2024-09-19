@@ -1,0 +1,51 @@
+[
+    {
+        "color": "Green",
+        "shape": "Washer",
+        "x": 1,
+        "y": 2,
+        "z": 0
+    },
+    {
+        "color": "Yellow",
+        "shape": "Horizontal_bridge",
+        "x": 2,
+        "y": 2,
+        "z": 1
+    },
+    {
+        "color": "Blue",
+        "shape": "Screw",
+        "x": 2,
+        "y": 2,
+        "z": 0
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 1,
+        "y": 2,
+        "z": 1
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 1,
+        "y": 2,
+        "z": 1
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
+        "x": 1,
+        "y": 2,
+        "z": 1
+    },
+    {
+        "color": "Blue",
+        "shape": "Screw",
+        "x": 2,
+        "y": 2,
+        "z": 0
+    }
+]
