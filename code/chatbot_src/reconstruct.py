@@ -18,7 +18,7 @@ def call_module(concept_name,initial_coord):
     concept_folder_path = os.path.join(parent_dir,concept_name)
     resovled_file_path  = concept_folder_path + '/resolved_'+concept_name+'.json'
     relative_coord_path = concept_folder_path + '/reconstruct_'+concept_name+'.json' 
-    new_blocked = []
+    new_blocked = ['testing_dump']
     if os.path.exists(resovled_file_path):
         success = reconstruct(
             initial_coords=initial_coord,
@@ -39,6 +39,8 @@ def call_module(concept_name,initial_coord):
                 x_cord      = action['x']
                 y_cord      = action['y']
                 z_cord      = action['z']
+
+                print(f"The coordinates are:{x_cord,y_cord,z_cord}")
                 new_blocked.append({
                     'x':int(x_cord),
                     'y':int(y_cord),
@@ -47,9 +49,11 @@ def call_module(concept_name,initial_coord):
                 new_instruction = action_name+" "+part_name+" "+color+" "+str(x_cord)+" "+str(int(y_cord)+1)+" "+str(z_cord)
                 all_actions = all_actions + '\n' + new_instruction
             
-            with open(blocked_locations_file,'a') as file:
-                json.dump(new_blocked,file,indent=4)
+            with open(blocked_locations_file,'a+') as file:
+                json.dump(new_blocked,file)
             
+            
+            print("The blocked locations are: ",new_blocked)
             print(all_actions)
             return all_actions.strip()
     else:

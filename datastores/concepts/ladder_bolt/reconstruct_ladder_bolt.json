@@ -3,84 +3,84 @@
         "color": "Red",
         "shape": "Nut",
         "x": 4,
-        "y": 4,
+        "y": 1,
         "z": 4
     },
     {
         "color": "Yellow",
         "shape": "Nut",
         "x": 5,
-        "y": 4,
+        "y": 1,
         "z": 5
     },
     {
         "color": "Red",
         "shape": "Nut",
         "x": 6,
-        "y": 4,
+        "y": 1,
         "z": 4
     },
     {
         "color": "Blue",
         "shape": "Nut",
         "x": 6,
-        "y": 4,
+        "y": 1,
         "z": 5
     },
     {
         "color": "Red",
         "shape": "Nut",
         "x": 5,
-        "y": 4,
+        "y": 1,
         "z": 4
     },
     {
         "color": "Blue",
         "shape": "Nut",
         "x": 4,
-        "y": 4,
+        "y": 1,
         "z": 5
     },
     {
         "color": "Red",
         "shape": "Nut",
         "x": 5,
-        "y": 4,
+        "y": 1,
         "z": 4
     },
     {
         "color": "Red",
         "shape": "Nut",
         "x": 5,
-        "y": 4,
+        "y": 1,
         "z": 4
     },
     {
         "color": "Blue",
         "shape": "Nut",
         "x": 6,
-        "y": 4,
+        "y": 1,
         "z": 5
     },
     {
         "color": "Blue",
         "shape": "Nut",
         "x": 4,
-        "y": 4,
+        "y": 1,
         "z": 5
     },
     {
         "color": "Blue",
         "shape": "Nut",
         "x": 4,
-        "y": 4,
+        "y": 1,
         "z": 5
     },
     {
         "color": "Red",
         "shape": "Nut",
         "x": 5,
-        "y": 4,
+        "y": 1,
         "z": 4
     }
 ]
