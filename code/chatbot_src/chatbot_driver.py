@@ -149,7 +149,14 @@ def predict(request:TextRequest):
 
         with open(blocked_locations_file,'w') as file:
             json.dump(blocked_locations,file,indent=4)
-        
+        """
+        if os.path.exists(blocked_locations_file):
+            with open(blocked_locations_file,'a') as file:
+                json.dump(blocked_locations,file,indent=4)
+        else:
+            with open(blocked_locations_file,'w') as file:
+                json.dump(blocked_locations,file,indent=4)
+        """
         return new_instruction
 
 if __name__ == "__main__":

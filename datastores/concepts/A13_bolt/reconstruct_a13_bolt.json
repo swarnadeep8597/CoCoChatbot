@@ -2,50 +2,50 @@
     {
         "color": "Green",
         "shape": "Washer",
-        "x": 0,
-        "y": 1,
-        "z": 8
+        "x": 1,
+        "y": 5,
+        "z": 0
     },
     {
         "color": "Yellow",
         "shape": "Horizontal_bridge",
-        "x": 1,
-        "y": 1,
-        "z": 9
+        "x": 2,
+        "y": 5,
+        "z": 1
     },
     {
         "color": "Blue",
         "shape": "Screw",
+        "x": 2,
+        "y": 5,
+        "z": 0
+    },
+    {
+        "color": "Red",
+        "shape": "Nut",
         "x": 1,
-        "y": 1,
-        "z": 8
+        "y": 5,
+        "z": 1
     },
     {
         "color": "Red",
         "shape": "Nut",
-        "x": 0,
-        "y": 1,
-        "z": 9
+        "x": 1,
+        "y": 5,
+        "z": 1
     },
     {
         "color": "Red",
         "shape": "Nut",
-        "x": 0,
-        "y": 1,
-        "z": 9
-    },
-    {
-        "color": "Red",
-        "shape": "Nut",
-        "x": 0,
-        "y": 1,
-        "z": 9
+        "x": 1,
+        "y": 5,
+        "z": 1
     },
     {
         "color": "Blue",
         "shape": "Screw",
-        "x": 1,
-        "y": 1,
-        "z": 8
+        "x": 2,
+        "y": 5,
+        "z": 0
     }
 ]
