@@ -54,13 +54,13 @@ def call_module(concept_name,initial_coord):
                 all_actions = all_actions + '\n' + new_instruction
             
             print("The previous blocked Locations are: ",blocked_locations)
-            with open(blocked_locations_file,'w') as file:
-                json.dump(blocked_locations,file)
+            #with open(blocked_locations_file,'w') as file:
+            #    json.dump(blocked_locations,file)
             
             
             #print("The blocked locations are: ",new_blocked)
             print(all_actions)
-            return all_actions.strip()
+            return all_actions.strip(),blocked_locations
     else:
         print("File doesn't exist")
 

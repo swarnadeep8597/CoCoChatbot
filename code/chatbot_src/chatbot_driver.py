@@ -113,9 +113,12 @@ def predict(request:TextRequest):
                 #print("The old part name is:",part_name)
                 print("The new part name is:",new_part_name)
                 
-                success  = call_module(
+                success,new_blocked_locations  = call_module(
                     concept_name=new_part_name.lower(),
                     initial_coord=[int(x_cord),int(z_cord)+1,int(y_cord)]
+                )
+                blocked_locations.extend(
+                    new_blocked_locations
                 )
                 #all_actions = ""
                 if not success:

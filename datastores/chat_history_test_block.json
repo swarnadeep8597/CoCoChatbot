@@ -5,34 +5,10 @@
     },
     {
         "role": "user",
-        "content": "place a washer in the top left corner of the grid. I want a red one"
+        "content": "place a ladder_bolt in the middle of the grid"
     },
     {
         "role": "assistant",
-        "content": "(PICK, Washer, Red, 0, 0, 4)"
-    },
-    {
-        "role": "user",
-        "content": "place a ladder_bolt in the center of the grid"
-    },
-    {
-        "role": "assistant",
-        "content": "(PICK, Ladder_Bolt, Silver, 4, 4, 0)"
-    },
-    {
-        "role": "user",
-        "content": "place a a13_bolt to the right of the red washer "
-    },
-    {
-        "role": "assistant",
-        "content": "(PICK, A13_Bolt, Brass, 1, 0, 4)"
-    },
-    {
-        "role": "user",
-        "content": "place a blue nut below the red washer "
-    },
-    {
-        "role": "assistant",
-        "content": "(PICK, Nut, Blue, 0, 1, 4)"
+        "content": "(PICK, ladder_bolt, blue, 4, 4, 0)"
     }
 ]
