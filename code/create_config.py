@@ -10,8 +10,8 @@ def create_config():
         'concept_names_path': '/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/datastores/constructs.json',
         'function_selector_prompt_file':'/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/prompts/function_selector.txt',
         'task_description_prompt_file':'/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/prompts/task_description.txt',
-        'chat_history_file':'/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/datastores/chat_history_test_block.json',
-        'blocked_locations_file':'/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/datastores/blocked_locations_testing.json',
+        'chat_history_file':'/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/datastores/chat_history.json',
+        'blocked_locations_file':'/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/datastores/blocked_locations.json',
     }
 
     with open('/Users/sbhar/Riju/PhDCode/CoCoApp/modularised_coco/config.ini','w') as configfile:
